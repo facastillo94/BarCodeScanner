@@ -1,0 +1,4 @@
+#Mon Oct 08 14:08:05 COT 2018
+base.0=C\:\\xampp\\htdocs\\BarCodeScanner\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
